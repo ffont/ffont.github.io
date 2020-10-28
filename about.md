@@ -25,7 +25,9 @@ Besides the research, I like working on other *just for fun* creative projects, 
 
 <h2>Selected <i>just for fun</i> projects</h2>
 <ul>
-	<li><a href="https://ritaandaurora.github.io/ddrm-jfsebastian/">J.F. Sebastian</a> - a tool to control and program Deckard's Dream synthetizer</li>
+	<li><a href="https://ritaandaurora.github.io/kijimi-babu-frik/">Babu Frik</a> - a tool to control and program KIJIMI synthetizer by Black Corportation</li>
+	<li><a href="https://github.com/ffont/pysha">Pysha</a> - app to turn your Push2 into a superpowered standalone MIDI controller</li>
+	<li><a href="https://ritaandaurora.github.io/ddrm-jfsebastian/">J.F. Sebastian</a> - similar to Babu Firk, a tool to control and program Deckard's Dream synthetizer</li>
 	<li><a href="https://labs.freesound.org/apps/freesound-timeline.html">Freesound Timeline</a> - the Freesound history in sound</li>
 	<li><a href="https://labs.freesound.org/apps/freesound-explorer.html">Freesound Explorer</a> - visual interface to explore Freesound in a 2-dimensional space and create music at the same time</li>
 	<li><a href="https://github.com/ffont/push2-python/">push2-python</a> - Python package to interface with Ableton's Push2</li>
